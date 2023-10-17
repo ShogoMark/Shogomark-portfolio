@@ -312,6 +312,11 @@ main{
     height: 200px;
 }
 
+.Picture{
+    display: flex;
+    flex-direction: column;
+}
+
 .JukeBox{
     height: 200px;
 }
